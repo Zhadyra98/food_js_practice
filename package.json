@@ -1,0 +1,22 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhadyra98/food_js_practice.git"
+  },
+  "author": "Zhadyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhadyra98/food_js_practice/issues"
+  },
+  "homepage": "https://github.com/Zhadyra98/food_js_practice#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
