@@ -37,6 +37,21 @@
       "name": "Zhadyra",
       "phone": "+7 707 646 61 98",
       "id": 3
+    },
+    {
+      "name": "Artifact generator",
+      "phone": "+7(705)461-24-06",
+      "id": 4
+    },
+    {
+      "name": "second",
+      "phone": "+905072483160",
+      "id": 5
+    },
+    {
+      "name": "simple",
+      "phone": "87054612406",
+      "id": 6
     }
   ]
 }
